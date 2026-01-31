@@ -1,0 +1,15 @@
+ithub repository URL(backend) : https://github.com/aravind-200431/money-manager-backend.git
+
+Github repository URL(Frontend) : https://github.com/aravind-200431/money-manager-frontend.git
+
+Live Frontend URL:
+
+Live Backend URL : https://money-manager-backend-aalw.onrender.com
+
+Last Commit Hash (Frontend) : 9463cd6d7632f205985ec9e6cd2a0698907ac684
+
+Last Commit Hash (Backend) : 40a56c6364104e7746734faa8b9d0fabacb74ff0
+
+Live web :
+
+video link : https://drive.google.com/file/d/1j6z2Tq_RCn66uAd08bsrl7uilGt1kpHo/view?usp=sharing
