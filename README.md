@@ -44,7 +44,7 @@ money-manager-frontend-main/
 │   │   ├── Filters/         
 │   │   ├── Layout/          
 │   │   ├── Modals/          
-│   │   ├── Transactions/   
+│   │   ├── Transactions/
 │   │   └── UI/              
 │   │
 │   ├── constants/           
