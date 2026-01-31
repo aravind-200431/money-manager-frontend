@@ -4,7 +4,7 @@ This frontend consumes a REST API built with Node.js and MongoDB Atlas.
 
 Live Application
 Frontend (Vercel):
-https://money-manager-frontend-eight.vercel.app/
+https://money-manager-frontend-omega.vercel.app/
 
 Backend API:
 https://money-manager-backend-aalw.onrender.com
@@ -30,14 +30,38 @@ Tailwind CSS
 Axios
 Vercel
 Project Structure
--src/
+money-manager-frontend-main/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   │   ├── Charts/          # Analytics & visualization components
+│   │   ├── Dashboard/       # Dashboard UI blocks
+│   │   ├── Filters/         # Category, date, division filters
+│   │   ├── Layout/          # Navbar, sidebar, page layout
+│   │   ├── Modals/          # Add/Edit transaction modals
+│   │   ├── Transactions/   # Transaction list & rows
+│   │   └── UI/              # Reusable UI components
+│   │
+│   ├── constants/           # Static values & enums
+│   ├── context/             # Global state (Context API)
+│   ├── pages/               # Application pages
+│   ├── services/            # API calls (Axios)
+│   ├── utils/               # Helper functions
+│   │
+│   ├── App.js               # Root component
+│   ├── index.js             # Entry point
+│   ├── index.css            # Global styles
+│   └── output.css           # Tailwind generated CSS
+│
+├── .env                     # Environment variables
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+└── README.md
 
-├── components/
-├── services/
-│ ├── api.js
-└── transactions.js
-├── App.jsx
-└── main.jsx
 Environment Variables
 The frontend uses environment variables for backend configuration.
 

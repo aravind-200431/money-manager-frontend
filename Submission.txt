@@ -2,14 +2,14 @@ ithub repository URL(backend) : https://github.com/aravind-200431/money-manager-
 
 Github repository URL(Frontend) : https://github.com/aravind-200431/money-manager-frontend.git
 
-Live Frontend URL:
+Live Frontend URL: https://money-manager-frontend-omega.vercel.app/
 
 Live Backend URL : https://money-manager-backend-aalw.onrender.com
 
-Last Commit Hash (Frontend) : 9463cd6d7632f205985ec9e6cd2a0698907ac684
+Last Commit Hash (Frontend) : 27aef89a0bf4f22b826f0bba4b79999e2d5c714d
 
-Last Commit Hash (Backend) : 40a56c6364104e7746734faa8b9d0fabacb74ff0
+Last Commit Hash (Backend) : 776e2cfc6b4f7513af819b178a31ffec4a3ff6b1
 
-Live web :
+Live web : https://money-manager-frontend-omega.vercel.app/
 
-video link : https://drive.google.com/file/d/1j6z2Tq_RCn66uAd08bsrl7uilGt1kpHo/view?usp=sharing
+video link : https://drive.google.com/file/d/13iY7YcWF424waLZTvnNDuDbkR5emY0CJ/view?usp=drive_link
