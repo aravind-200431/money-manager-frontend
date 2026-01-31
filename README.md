@@ -29,7 +29,9 @@ Vite
 Tailwind CSS
 Axios
 Vercel
-Project Structure
+
+## 📁 Project Structure
+
 money-manager-frontend-main/
 │
 ├── public/
@@ -61,6 +63,7 @@ money-manager-frontend-main/
 ├── package-lock.json
 ├── postcss.config.js
 └── README.md
+
 
 Environment Variables
 The frontend uses environment variables for backend configuration.
