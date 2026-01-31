@@ -30,39 +30,42 @@ Tailwind CSS
 Axios
 Vercel
 
-## 📁 Project Structure
+<h2>📁 Project Structure</h2>
 
+<pre>
 money-manager-frontend-main/
 │
 ├── public/
 │
 ├── src/
-│ ├── components/
-│ │ ├── Charts/ # Analytics & visualization components
-│ │ ├── Dashboard/ # Dashboard UI blocks
-│ │ ├── Filters/ # Category, date, division filters
-│ │ ├── Layout/ # Navbar, sidebar, page layout
-│ │ ├── Modals/ # Add/Edit transaction modals
-│ │ ├── Transactions/ # Transaction list & rows
-│ │ └── UI/ # Reusable UI components
-│ │
-│ ├── constants/ # Static values & enums
-│ ├── context/ # Global state (Context API)
-│ ├── pages/ # Application pages
-│ ├── services/ # API calls (Axios)
-│ ├── utils/ # Helper functions
-│ │
-│ ├── App.js # Root component
-│ ├── index.js # Entry point
-│ ├── index.css # Global styles
-│ └── output.css # Tailwind generated CSS
+│   ├── components/
+│   │   ├── Charts/          
+│   │   ├── Dashboard/       
+│   │   ├── Filters/         
+│   │   ├── Layout/          
+│   │   ├── Modals/          
+│   │   ├── Transactions/   
+│   │   └── UI/              
+│   │
+│   ├── constants/           
+│   ├── context/             
+│   ├── pages/               
+│   ├── services/            
+│   ├── utils/               
+│   │
+│   ├── App.js               
+│   ├── index.js             
+│   ├── index.css            
+│   └── output.css           
 │
-├── .env # Environment variables
+├── .env
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
 ├── postcss.config.js
 └── README.md
+</pre>
+
 
 
 Environment Variables
