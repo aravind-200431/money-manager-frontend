@@ -6,7 +6,7 @@ Live Frontend URL: https://money-manager-frontend-omega.vercel.app/
 
 Live Backend URL : https://money-manager-backend-aalw.onrender.com
 
-Last Commit Hash (Frontend) : 27aef89a0bf4f22b826f0bba4b79999e2d5c714d
+Last Commit Hash (Frontend) : 256b386ee3b934cfe29f4022f6707d5e2893d683
 
 Last Commit Hash (Backend) : 776e2cfc6b4f7513af819b178a31ffec4a3ff6b1
 
